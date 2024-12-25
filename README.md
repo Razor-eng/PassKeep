@@ -8,7 +8,7 @@ PassKeep is a secure password manager built with Next.js. It leverages cutting-e
 
 You can try out the app live at:
 
-[PassKeep Live Demo](https://passkeep.vercel.app/)
+[PassKeep Live Demo](https://passkeepr.vercel.app/)
 
 ---
 
